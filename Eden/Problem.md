@@ -1,3 +1,0 @@
-You are about to embark on a series of non-linear challenges. This set of challenges simulates a real-world investigation. Although it is not something you may be used to, you will find that many aspects are relatively simple. There may be multiple ways to reach one solution. This challenge encompasses all categories. You may engage (view, access, download) any additional resources you find along the way. Good luck. (You're not expected to solve Eden 9. It's hard.)
-
-An investigator approached CAMS CSC via social media regarding the supposed suicide of Eden Sterling. What is his name? For reference, all flags should be submitted in the format of {answer}.
