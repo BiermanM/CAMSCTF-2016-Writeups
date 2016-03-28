@@ -2,4 +2,4 @@
 2. Open `3.exe` with IDA Pro
 3. Go to Debugger —> Select Debugger —> Win32 Debugger
 4. Press the debugger play button
-5. **{i_can_use_a_debugger_;)}**
+5. The flag is **{i_can_use_a_debugger_;)}**
