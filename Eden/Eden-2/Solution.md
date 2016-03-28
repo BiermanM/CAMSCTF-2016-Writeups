@@ -9,8 +9,9 @@
 9. Extract `Eden_Drive.rar`
 10. Rename the extracted file to `Eden_Drive.dmg`
 11. Open `Eden_Drive.dmg` on a Mac OS to reveal a NTFS partition and a HFS+ partition
-12. Find the files `7412412` and `3126812` and rename them to `7412412.docx` and `3126812.docx`
-13. Convert all of the text in either document to black, revealing the link http://http://cscbook.camscsc.org/ at the bottom of the page
-14. Go to http://cscbook.camscsc.org/members
-15. Find the user with this initials A.M.
-16. The flag is **{Alice Minh}**
+12. Find the `3126812.STEP` file in the NTFS partition and convert it to `3126812.docx`
+13. Find the `7412412.gif` file in the HFS+ partition and convert it to `7412412.docx` 
+14. Convert all of the text in either document to black, revealing the link http://cscbook.camscsc.org/ at the bottom of the page
+15. Go to http://cscbook.camscsc.org/members
+16. Find the user with this initials A.M.
+17. The flag is **{Alice Minh}**
