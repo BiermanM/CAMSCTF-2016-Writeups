@@ -1,4 +1,4 @@
-1. Log into the Administrator account on the Windows XP virtual machine (Password: 692786)
+1. Log into the Administrator account on the Windows XP virtual machine (Password: `692786`)
 2. Open Windows Explorer
 3. Go to Tools -> Folder Options...
 4. Go to View -> Show hidden files and folders
