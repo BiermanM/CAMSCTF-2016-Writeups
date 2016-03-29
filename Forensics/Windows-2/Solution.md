@@ -4,12 +4,8 @@
 4. Move `lsasecretsdump.exe` to C:\
 5. Open Command Prompt
 6. Type the following commands:
-
-> cd ..
-
-> cd ..
-
-> lsasecretsdump
-
+  * cd ..
+  * cd ..
+  * lsasecretsdump
 7. Look under DefaultPassword, you'll find `o.h._.h.o.w._.v.i.r.u.s.e.s._.g.o.`
 8. The flag is **{oh_how_viruses_go}**
