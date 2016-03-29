@@ -7,7 +7,6 @@
 * [Reversing 1 (30)](https://github.com/BiermanM/CAMSCTF-2016-Writeups/tree/master/Forensics/Reversing-1)
 * [Reversing 3 (75)](https://github.com/BiermanM/CAMSCTF-2016-Writeups/tree/master/Forensics/Reversing-3) 
 * [Steggy (25)](https://github.com/BiermanM/CAMSCTF-2016-Writeups/tree/master/Forensics/Steggy)
-* [Windows 1 (50)](https://github.com/BiermanM/CAMSCTF-2016-Writeups/tree/master/Forensics/Windows-1)
 * [Windows 2 (50)](https://github.com/BiermanM/CAMSCTF-2016-Writeups/tree/master/Forensics/Windows-2)
 * [Windows 3 (50)](https://github.com/BiermanM/CAMSCTF-2016-Writeups/tree/master/Forensics/Windows-3)
 * [Windows 6 (50)](https://github.com/BiermanM/CAMSCTF-2016-Writeups/tree/master/Forensics/Windows-6)
