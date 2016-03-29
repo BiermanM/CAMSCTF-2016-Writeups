@@ -26,7 +26,6 @@
 * [Photo Synthesis 1 (75)](https://github.com/BiermanM/CAMSCTF-2016-Writeups/tree/master/Programming/Photo-Synthesis-1)
 * [Photo Synthesis 2 (125)](https://github.com/BiermanM/CAMSCTF-2016-Writeups/tree/master/Programming/Photo-Synthesis-2)
 * [Photo Synthesis 3 (150)](https://github.com/BiermanM/CAMSCTF-2016-Writeups/tree/master/Programming/Photo-Synthesis-3)
-* [Pure Evil (100)](https://github.com/BiermanM/CAMSCTF-2016-Writeups/tree/master/Programming/Pure-Evil)
 
 ## Reconnaissance
 * [Easy Transportation (20)](https://github.com/BiermanM/CAMSCTF-2016-Writeups/tree/master/Reconnaissance/Easy-Transportation)
