@@ -12,7 +12,6 @@
 * [Windows 3 (50)](https://github.com/BiermanM/CAMSCTF-2016-Writeups/tree/master/Forensics/Windows-3)
 * [Windows 6 (50)](https://github.com/BiermanM/CAMSCTF-2016-Writeups/tree/master/Forensics/Windows-6)
 * [Windows 7 (50)](https://github.com/BiermanM/CAMSCTF-2016-Writeups/tree/master/Forensics/Windows-7)
-* [Windows 8 (200)](https://github.com/BiermanM/CAMSCTF-2016-Writeups/tree/master/Forensics/Windows-8)
 * [Windows 9 (50)](https://github.com/BiermanM/CAMSCTF-2016-Writeups/tree/master/Forensics/Windows-9)
 
 ## Miscellaneous
